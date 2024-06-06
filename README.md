@@ -1,4 +1,4 @@
 ### Monster Slayer
-Ce dépôt contient le code source d'un projet de mini-jeu de combat.
+This repository contains the source code for a combat minigame project.
 \
-Actuellement en cours de développement.
+Currently under development.
