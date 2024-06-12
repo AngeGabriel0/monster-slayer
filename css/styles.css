@@ -1,0 +1,77 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    background-color: #fff;
+}
+
+.players {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.you,
+.monster {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.life-bar {
+    display: flex;
+    width: 200px;
+    height: 20px;
+    border: 1px solid #000;
+}
+
+.life {
+    display: flex;
+    height: 100%;
+    background-color: #76d275;
+    width: 100%;
+    /* La largeur initiale est de 100% */
+}
+
+.monster-life {
+
+
+display: flex;
+height: 100%;
+background-color: #76d275;
+width: 100%;
+    /* La largeur initiale est de 100% */
+}
+
+.actions {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #008CBA;
+    color: #fff;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #007B9A;
+}
