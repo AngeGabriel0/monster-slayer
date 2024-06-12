@@ -1,7 +1,3 @@
-/* Idées d'amélioration
-
-Niveaux de difficultés qui changent les variables (facile, moyen, difficile) */
-
 const attackButton: HTMLButtonElement = document.querySelector('#attackBtn')!;
 const specialAttackButton: HTMLButtonElement = document.querySelector('#specialBtn')!;
 const healBtn: HTMLButtonElement = document.querySelector('#healBtn')!;
