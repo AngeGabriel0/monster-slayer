@@ -21,16 +21,4 @@ In the game, you have the option to attack a monster, use a special attack, heal
 
 ## How to play
 
-Clone the repo, and open the [index.html](html/index.html) file in your browser to start playing.
-
-## Development
-
-The game source code is in the [script.ts](src/script.ts) file. It defines a `Game` class which contains the game logic.
-
-## Styles
-
-The game styles are defined in the [styles.css](css/styles.css) file.
-
-## Licence
-
-This project is under the MIT license.
+Go to [this page](https://gabrielluthun.github.io/monster-slayer/) to play
