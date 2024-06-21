@@ -21,4 +21,4 @@ In the game, you have the option to attack a monster, use a special attack, heal
 
 ## How to play
 
-Go to [this page](https://gabrielluthun.github.io/monster-slayer/) to play
+Go to [this page](https://gabrielluthun.github.io/typescript-monster-slayer/) to play
